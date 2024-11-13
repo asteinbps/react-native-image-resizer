@@ -169,10 +169,8 @@
     ]
   },
   "codegenConfig": {
-    {
-      "name": "RNImageResizerSpec",
-      "type": "modules",
-      "jsSrcsDir": "src"
-    }
+    "name": "RNImageResizerSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
   }
 }
